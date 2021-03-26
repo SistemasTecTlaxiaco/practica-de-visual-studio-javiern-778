@@ -1,0 +1,10 @@
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\bin\Debug\InterfasGrafica.exe.config
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\bin\Debug\InterfasGrafica.exe
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\bin\Debug\InterfasGrafica.pdb
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.csprojAssemblyReference.cache
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.Form1.resources
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.Properties.Resources.resources
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.csproj.GenerateResource.cache
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.csproj.CoreCompileInputs.cache
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.exe
+C:\Users\JAVIER NOE CRUZ\OneDrive\Escritorio\CLASES EN LINEA  2021 FEBRERO\TOPICOS AVANZADOS DE PROGRAMACION 4US\TEMA 1\InterfasGrafica\InterfasGrafica\obj\Debug\InterfasGrafica.pdb
